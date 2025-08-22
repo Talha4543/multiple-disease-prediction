@@ -1,62 +1,40 @@
-Multiple Disease Prediction System
-This project is a Streamlit web application that uses machine learning to predict the likelihood of multiple diseases. The system currently includes prediction models for:
+**Multiple Disease Prediction**
+-------------------------------
 
-❤️ Heart Disease
+**How it Works:**The application is a simple tool for early disease detection. Users enter their medical data, like blood pressure or glucose levels, into the system. The application then uses pre-trained machine learning models to analyze the data and predict the person's risk for the chosen disease.
 
-🧠 Parkinson’s Disease
+**Technologies Used:**
 
-🍬 Diabetes
+*   **Python:** The main programming language.
+    
+*   **Streamlit:** Used to build the web interface.
+    
+*   **Scikit-learn:** Provides the machine learning models.
+    
+*   **Pandas & NumPy:** Used for handling and processing data.
+    
 
-Overview
-The application is designed to be a user-friendly tool for early disease detection. It allows users to input various medical parameters like glucose levels, blood pressure, and BMI. The system then uses pre-trained machine learning models to analyze this data and predict a person's risk for the selected disease.
+**Key Features:**
 
-The primary goal is to provide an accessible way for people to assess their risk and encourage preventive healthcare measures.
+*   Predicts heart disease.
+    
+*   Predicts Parkinson's disease.
+    
+*   Predicts diabetes.
+    
+*   The interface is interactive and easy to use.
+    
+*   Simple forms for entering medical information.
+    
 
-Tech Stack
-Python: The core language for data processing and model training.
+**How to Run the Application:**
 
-Streamlit: Used to build the interactive web application.
-
-Scikit-learn: The primary library for the machine learning models.
-
-Pandas & NumPy: Essential for data handling and manipulation.
-
-Features
-✅ Heart Disease Prediction
-
-✅ Parkinson’s Disease Prediction
-
-✅ Diabetes Prediction
-
-✅ Interactive and intuitive Streamlit interface
-
-✅ Easy-to-use input forms for medical data
-
-How to Run
-Clone the repository:
-
-Bash
-
-git clone https://github.com/Talha4543/multiple-disease-prediction.git
-cd multiple-disease-prediction
-Install the required dependencies:
-
-Bash
-
-pip install -r requirements.txt
-Note: You may need to install additional libraries if you plan to run the Jupyter notebooks.
-
-Launch the Streamlit app:
-
-Bash
-
-streamlit run app.py
-Your web browser should automatically open the application at http://localhost:8501.
-
-Screenshots
-
-
-
-
-
-
+1.  Clone the project repository from GitHub.
+    
+2.  Go into the project folder.
+    
+3.  Install the necessary libraries by running the command pip install -r requirements.txt.
+    
+4.  Start the application with the command streamlit run app.py.
+    
+5.  The app will open automatically in your web browser.
