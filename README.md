@@ -1,48 +1,40 @@
-\*\*Multiple Disease Prediction\*\*
------------------------------------
+**Multiple Disease Prediction**
+-------------------------------
 
-\-------------------------------
+This is a **Multiple Disease Prediction** system, a Streamlit web application that uses machine learning to predict a person's risk for heart disease, Parkinson's disease, and diabetes.
 
-\*\*How it Works:\*\*The application is a simple tool for early disease detection. Users enter their medical data, like blood pressure or glucose levels, into the system. The application then uses pre-trained machine learning models to analyze the data and predict the person's risk for the chosen disease.
+**How it Works:**
 
-\*\*Technologies Used:\*\*
+The application is a simple tool for early disease detection. Users enter their medical data, like blood pressure or glucose levels. The app then uses pre-trained machine learning models to analyze this information and predict the person's risk for a specific disease.
 
-\* \*\*Python:\*\* The main programming language.
+**Technologies Used:**
 
-\* \*\*Streamlit:\*\* Used to build the web interface.
+*   **Python:** The main programming language.
+    
+*   **Streamlit:** Used to create the web interface.
+    
+*   **Scikit-learn:** Provides the machine learning models.
+    
+*   **Pandas & NumPy:** Used for handling and processing data.
+    
 
-\* \*\*Scikit-learn:\*\* Provides the machine learning models.
+**Key Features:**
 
-\* \*\*Pandas & NumPy:\*\* Used for handling and processing data.
+*   It predicts heart disease, Parkinson's disease, and diabetes.
+    
+*   The interface is interactive and easy to use.
+    
+*   It has simple forms for entering medical information.
+    
 
-\*\*Key Features:\*\*
+**How to Run the Application:**
 
-\* Predicts heart disease.
-
-\* Predicts Parkinson's disease.
-
-\* Predicts diabetes.
-
-\* The interface is interactive and easy to use.
-
-\* Simple forms for entering medical information.
-
-\*\*How to Run the Application:\*\*
-
-1\. Clone the project repository from GitHub.
-
-2\. Go into the project folder.
-
-3\. Install the necessary libraries by running the command pip install -r requirements.txt.
-
-4\. Start the application with the command streamlit run app.py.
-
-**Screenshots/Results:**
-
-!\[image alt\](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/1.PNG)
-
-!\[image alt\](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/2.PNG)
-
-!\[image alt\](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/3.PNG)
-
-**6\. The app will open automatically in your web browser.**
+1.  Clone the project from GitHub.
+    
+2.  Go into the project folder.
+    
+3.  Install the required libraries with the command: pip install -r requirements.txt.
+    
+4.  Start the app with the command: streamlit run app.py.
+    
+5.  The application will automatically open in your web browser.
