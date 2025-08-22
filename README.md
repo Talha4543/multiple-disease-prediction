@@ -1,4 +1,6 @@
-# multiple-disease-prediction-streamlit-app
+# Multiple-disease-prediction
+![image alt](https://github.com/Talha4543/multiple-disease-prediction/blob/4da123a311c238f634f56bc52abbbe6d4903ac3a/1.PNG)
+
 This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
 
 app.py is the streamlit app code.
