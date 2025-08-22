@@ -1,45 +1,47 @@
-**Multiple Disease Prediction**
--------------------------------
+\*\*Multiple Disease Prediction\*\*
 
-**How it Works:**The application is a simple tool for early disease detection. Users enter their medical data, like blood pressure or glucose levels, into the system. The application then uses pre-trained machine learning models to analyze the data and predict the person's risk for the chosen disease.
+\-------------------------------
 
-**Technologies Used:**
+\*\*How it Works:\*\*The application is a simple tool for early disease detection. Users enter their medical data, like blood pressure or glucose levels, into the system. The application then uses pre-trained machine learning models to analyze the data and predict the person's risk for the chosen disease.
 
-*   **Python:** The main programming language.
-    
-*   **Streamlit:** Used to build the web interface.
-    
-*   **Scikit-learn:** Provides the machine learning models.
-    
-*   **Pandas & NumPy:** Used for handling and processing data.
-    
+\*\*Technologies Used:\*\*
 
-**Key Features:**
+\* \*\*Python:\*\* The main programming language.
 
-*   Predicts heart disease.
-    
-*   Predicts Parkinson's disease.
-    
-*   Predicts diabetes.
-    
-*   The interface is interactive and easy to use.
-    
-*   Simple forms for entering medical information.
-    
+\* \*\*Streamlit:\*\* Used to build the web interface.
 
-**How to Run the Application:**
+\* \*\*Scikit-learn:\*\* Provides the machine learning models.
 
-1.  Clone the project repository from GitHub.
-    
-2.  Go into the project folder.
-    
-3.  Install the necessary libraries by running the command pip install -r requirements.txt.
-    
-4.  Start the application with the command streamlit run app.py.
+\* \*\*Pandas & NumPy:\*\* Used for handling and processing data.
 
-Screenshots/Results:
-![image alt](
-![image alt](
-![image alt](
-    
-6.  The app will open automatically in your web browser.
+\*\*Key Features:\*\*
+
+\* Predicts heart disease.
+
+\* Predicts Parkinson's disease.
+
+\* Predicts diabetes.
+
+\* The interface is interactive and easy to use.
+
+\* Simple forms for entering medical information.
+
+\*\*How to Run the Application:\*\*
+
+1\. Clone the project repository from GitHub.
+
+2\. Go into the project folder.
+
+3\. Install the necessary libraries by running the command pip install -r requirements.txt.
+
+4\. Start the application with the command streamlit run app.py.
+
+**Screenshots/Results:**
+
+![image alt](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/1.PNG)
+
+![image alt](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/2.PNG)
+
+![image alt](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/3.PNG)
+
+**6\. The app will open automatically in your web browser.**
