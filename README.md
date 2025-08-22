@@ -36,5 +36,10 @@
 3.  Install the necessary libraries by running the command pip install -r requirements.txt.
     
 4.  Start the application with the command streamlit run app.py.
+
+Screenshots/Results:
+![image alt](
+![image alt](
+![image alt](
     
-5.  The app will open automatically in your web browser.
+6.  The app will open automatically in your web browser.
