@@ -1,4 +1,5 @@
 \*\*Multiple Disease Prediction\*\*
+-----------------------------------
 
 \-------------------------------
 
@@ -38,10 +39,10 @@
 
 **Screenshots/Results:**
 
-![image alt](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/1.PNG)
+!\[image alt\](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/1.PNG)
 
-![image alt](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/2.PNG)
+!\[image alt\](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/2.PNG)
 
-![image alt](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/3.PNG)
+!\[image alt\](https://github.com/Talha4543/multiple-disease-prediction/blob/c87651e2b106f5f74778dd39651cc2c5add624fc/3.PNG)
 
 **6\. The app will open automatically in your web browser.**
